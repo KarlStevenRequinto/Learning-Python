@@ -1,0 +1,7 @@
+try:
+    // your code here
+except:
+    // your code here
+finally:
+    // your code here
+its like an if statement.. after a try except block, the program continues normally
