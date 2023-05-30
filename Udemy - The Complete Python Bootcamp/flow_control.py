@@ -1,0 +1,10 @@
+# IF ELIF ELSE
+# INDENTATION
+# STATEMENTS VS EXPRESSIONS
+# STATEMENTS --> X = 1
+# EXPRESSION --> X = 1+2 * Y
+print(int(True))
+print(int(False))
+
+# AND OR OPERATORS
+# NOT OPERATORS
